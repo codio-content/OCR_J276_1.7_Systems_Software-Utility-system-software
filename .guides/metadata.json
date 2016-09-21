@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "e265a0bc-7459-5427-c9f3-946ade49a5de",
+   "title": "Utility system software",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Utility-system-software-e265.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fb4e5f38-d484-f551-4e40-bcd161b61eec",
+   "title": "Encryption software",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Encryption-software-fb4e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4a577257-7db4-9e0f-3358-89e14b0ae3fa",
+   "title": "Defragmentation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Defragmentation-4a57.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "362616e3-d0dc-30f5-87d7-0fe07b0a363d",
+   "title": "Data compression",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-compression-3626.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "51e4d011-c4bf-78e3-19aa-983f7ffb4199",
+   "title": "The role and methods of backup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-role-and-methods-of-backup-51e4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d2be28bd-f25c-52b5-17de-a0a8ee9d691c",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-d2be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "de66b0b7-af98-c866-b855-569d10608791",
+   "title": "Question",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-de66.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

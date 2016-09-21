@@ -1,0 +1,60 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2332082379",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": false,
+   "text": "Utility system software helps to <<<configure>>> the system and then constantly <<<optimises>>> it to improve its efficiency.\nThe speed of data access is improved by <<<defragmentation>>> software which rearranges the separate parts of a saved file on a disk so that they are all together or <<<contiguous>>>.\nMore data can be stored by the system when the files are <<<compressed>>> using <<<compression>>> software. \nThere are two types lossless and <<<lossy>>>.\nTo improve the security of a system the files can be scrambled using <<<encryption>>> software. \nThe files are <<<encrypted>>> using a cipher or key and then <<<decrypted>>> when they are needed again.\nTo protect against the loss of data <<<backup>>> software should be used. \nThe software can be used to do  <<<full>>> backups or <<<incremental>>> backups where only new or edited files are backed up.\n",
+   "tokens": {
+    "blank": [
+     "configure",
+     "optimises",
+     "defragmentation",
+     "contiguous",
+     "compressed",
+     "compression",
+     "lossy",
+     "encryption",
+     "encrypted",
+     "decrypted",
+     "backup",
+     "full",
+     "incremental"
+    ],
+    "text": [
+     "Utility system software helps to ",
+     0,
+     " the system and then constantly ",
+     0,
+     " it to improve its efficiency.\nThe speed of data access is improved by ",
+     0,
+     " software which rearranges the separate parts of a saved file on a disk so that they are all together or ",
+     0,
+     ".\nMore data can be stored by the system when the files are ",
+     0,
+     " using ",
+     0,
+     " software. \nThere are two types lossless and ",
+     0,
+     ".\nTo improve the security of a system the files can be scrambled using ",
+     0,
+     " software. \nThe files are ",
+     0,
+     " using a cipher or key and then ",
+     0,
+     " when they are needed again.\nTo protect against the loss of data ",
+     0,
+     " software should be used. \nThe software can be used to do  ",
+     0,
+     " backups or ",
+     0,
+     " backups where only new or edited files are backed up.\n"
+    ]
+   }
+  }
+ }
+]
