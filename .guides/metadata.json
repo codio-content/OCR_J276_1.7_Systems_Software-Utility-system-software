@@ -23,6 +23,17 @@
    "teacherOnly": false
   },
   {
+   "id": "8f6c6322-8662-d8b9-3122-efe658dae94e",
+   "title": "Ciphers in history",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ciphers-in-history-8f6c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "4a577257-7db4-9e0f-3358-89e14b0ae3fa",
    "title": "Defragmentation",
    "files": [],
