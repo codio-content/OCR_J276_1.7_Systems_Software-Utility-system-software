@@ -9,4 +9,4 @@ A common method of encryption is the use of a ‘public’ and a ‘private’ k
 - All users have both a public and a private key. 
 - The public key is freely available to anyone but the private key is only known to the owner.
 - Messages encrypted by a particular public key can only be decrypted with the corresponding private key. 
-- If person A wanted to send an encrypted fi le to person B, person A would encrypt it with person B’s public key. On receipt, person B would then decrypt the fi le with their private key.
+- If person A wanted to send an encrypted file to person B, person A would encrypt it with person B’s public key. On receipt, person B would then decrypt the file with their private key.

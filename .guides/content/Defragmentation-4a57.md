@@ -6,4 +6,4 @@ When the file is accessed the read/write heads of the hard disk drive have to se
 
 Disk fragmentation software rearranges the files on the disk so that all parts of a file are together. 
 
-They separate parts are now contiguous and the complete file can be assessed more quickly.
+The separate parts are now contiguous and the complete file can be assessed more quickly.
